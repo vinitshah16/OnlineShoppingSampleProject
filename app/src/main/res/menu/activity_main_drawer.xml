@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Products">
+        <menu>
+            <item
+                android:id="@+id/nav_all"
+                android:title="All Products" />
+            <item
+                android:id="@+id/nav_electronics"
+                android:title="Electronics" />
+            <item
+                android:id="@+id/nav_furniture"
+                android:title="Furniture" />
+
+        </menu>
+    </item>
+
+</menu>
